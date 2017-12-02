@@ -3,6 +3,9 @@
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
     <settings>
+
+
+
         <!-- 驼峰写法对应数据库字段的下划线 -->
         <setting name="mapUnderscoreToCamelCase" value="true" />
     </settings>
